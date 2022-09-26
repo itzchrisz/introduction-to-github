@@ -1,3 +1,11 @@
+<p>This is the Netlify URL to the Readme.md file</p>
+
+
+
+
+<a href="https://github.com/itzchrisz/introduction-to-github"> Click here to see the URL for Netlify! </a>
+
+
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
